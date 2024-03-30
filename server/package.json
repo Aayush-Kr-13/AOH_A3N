@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aayush-Kr-13/AOH_A3N/issues"
   },
-  "homepage": "https://github.com/Aayush-Kr-13/AOH_A3N#readme"
+  "homepage": "https://github.com/Aayush-Kr-13/AOH_A3N#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.3.1"
+  }
 }
